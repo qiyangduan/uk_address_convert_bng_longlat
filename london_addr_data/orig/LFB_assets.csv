@@ -1,0 +1,117 @@
+OBJECTID,Borough,Unique_Asset_ID,Holding_Name,Address,Post_Code,Sub_Unit,UPRN,Description,Occupied,Land_Building,Asset_Category,Tenure,Site_Area_Hectares,Building_Area_GIA_sqm,Building_Area_NIA_sqm,Easting,Northing
+1,Ealing,FS01,ACTON,27 Gunnersbury Lane,W3 8EA,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.27,1836,,519693,180087
+2,Croydon,FS02,ADDINGTON,197-199 Lodge Lane,CR0 0QA,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.38,589,,537713,163274
+3,Barking and Dagenham,FS03,BARKING (including workshop),"Alfred's Way, Barking, Essex",IG11 0BB,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.57,1759,,544987,183294
+4,Barnet,FS04,BARNET,144 Station Road,EN5 1TE,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.27,1204,,525594,195828
+5,Wandsworth,FS05,BATTERSEA,11 Este Road ,SW11 2TL,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.17,860,,527254,175842
+6,Bromley,FS06,BECKENHAM,8 Beckenham Road,BR3 4LR,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.29,1089,,536819,169511
+7,Tower Hamlets,FS08,BETHNAL GREEN,11 Roman Road,E2 0HU,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.17,997,,535127,182792
+8,Bexley,FS09,BEXLEY,"172 Erith Road, Bexleyheath",DA7 6BY,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.2,799,,549713,175769
+9,Bromley,FS10,BIGGIN HILL,2 Kingsmead,TN16 3UB,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.15,435,,541872,159129
+10,Waltham Forest,FS100,WALTHAMSTOW,343 Forest Road,E17 5JR,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.17,726,,536652,189726
+11,Wandsworth,FS101,WANDSWORTH,"45 West Hill, Wandsworth",SW18 1RL,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.15,1248,,525058,174584
+12,Brent,FS102,WEMBLEY,591a Harrow Road,HA0 2EG,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.46,2383,,517690,184992
+13,Havering,FS103,WENNINGTON,Wennington Road,RM13 9EE,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.27,522,,554191,180900
+14,Camden,FS104,WEST HAMPSTEAD,325 West End Lane,NW6 1RR,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.15,735,,525384,185185
+16,Tower Hamlets,FS107,WHITECHAPEL,27 Commercial Road,E1 1LD,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.07,1132,,534073,181364
+17,Brent,FS108,WILLESDEN,59a Pound Lane,NW10 2HH,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.31,959,,522352,184288
+18,Merton,FS109,WIMBLENDON,87 Kingston Road,SW19 1JN,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.27,1465,,525437,170050
+19,Redbridge,FS110,WOODFORD,2 Snakes Lane,IG8 0BS,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.28,725,,540245,192022
+20,Croydon,FS111,WOODSIDE,"2 Long Lane, Addiscombe Road, Croydon ",CR0 7AL,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.32,1016,,534944,166981
+21,Havering,FS113,HAROLD HILL,"Unit 7, 8 and 9 Falcon Business Centre, Spilsbury Rd",RM3 8QN,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0,1535,,554184,191156
+22,Merton,FS114,MITCHAM,"421-445 London Road, Mitcham, Surrey ",CR4 4BJ,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.18,1219,,527227,168057
+23,Lambeth,FS115,WEST NORWOOD,"210 Knights Hill, West Norwood",SE27 0QA,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.25,1435,,531802,171366
+24,Lambeth,FS12,BRIXTON,"84 Gresham Road, Brixton",SW9 7NP,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.16,1072,,531414,175557
+25,Bromley,FS13,BROMLEY,"4 South Street, Bromley, Kent",BR1 1RH,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.2,1169,,540386,169489
+26,Kensington and Chelsea,FS14,CHELSEA,264 Kings Road,SW3 5UF,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.16,1428,,527131,178061
+27,Waltham Forest,FS15,CHINGFORD,34 The Ridgeway,E4 6PP,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.33,809,,538190,194190
+28,Hounslow,FS16,CHISWICK,2-4 Heathfield Gardens,W4 4JY,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.27,718,,520272,178258
+29,Lambeth,FS17,CLAPHAM,29 Old Town,SW4 0JT,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.2,1459,,529259,175637
+30,Islington,FS18,CLERKENWELL,42-44 Rosebery Avenue,EC1R 4RN,,,Fire Station,No,Land & buildings ,Subject to disposal process,FH,0.13,2422,,531186,182306
+31,Croydon,FS19,CROYDON,90 Old Town,CR0 1AR,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.95,4393,,531968,165046
+32,Barking and Dagenham,FS20,DAGENHAM,70 Rainham Road North,RM10 7ES,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.35,1066,,549622,186714
+33,Lewisham,FS21,DEPTFORD,186 Evelyn Street,SE5 8PR,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.08,757,,533586,176741
+34,Southwark,FS22,DOCKHEAD,8 Wolseley Street,SE1 2BP,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.17,716,,534016,179750
+35,City of London,FS23,DOWGATE,94-95 Upper Thames Street,EC4R 3UE,,,Fire Station,Yes,Land & buildings ,Operational asset,LLH,0.22,840,,532628,180728
+36,Ealing,FS25,EALING,60-64 Uxbridge Road,W13 8RA,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.26,1153,,517090,180596
+37,Greenwich,FS26,EAST GREENWICH,"235 Woolwich Road, London",SE7 7RF,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.35,1131,,540506,178384
+38,Newham,FS27,EAST HAM,210 High Street South,E6 3RS,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.36,2185,,542787,182495
+39,Enfield,FS28,EDMONTON,99 Church Street,N9 9AA,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.34,1725,,533749,193822
+40,Greenwich,FS29,ELTHAM,266 Eltham High Street,SE9 1BA,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.05,653,,543194,174414
+41,Enfield,FS30,ENFIELD,93 Carterhatch Lane,EN1 4LA,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.26,899,,534836,197522
+42,Bexley,FS31,ERITH,"52 Erith Road, Belvedere Kent",DA17 6HR,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.29,1040,,549830,178500
+43,Camden,FS32,EUSTON,172 Euston Road,NW1 2DH,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.13,1207,,529767,182633
+44,Hounslow,FS33,FELTHAM,101 Faggs Road,TW14 0LH,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.33,847,,510290,174716
+45,Barnet,FS34,FINCHLEY,227 Long Lane,N3 2RP,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.62,1850,,526194,190347
+46,Lewisham,FS35,FOREST HILL,155 Stansted Road,SE23 1HP,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.25,829,,535961,173331
+47,Hammersmith and Fulham,FS36,FULHAM,685 Fulham Road,SW6 5UJ,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.16,1338,,525034,176953
+48,Greenwich,FS37,GREENWICH,4 Blisset Street,SE10 8UP,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.26,1329,,538047,176858
+49,Redbridge,FS38,HAINAULT,368-388 New North Road,IG6 3DY,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.24,607,,545824,191801
+50,Hammersmith and Fulham,FS39,HAMMERSMITH,190-192 Shepherds Bush Road,W6 7NL,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0,3408,,523352,178696
+51,Harrow,FS40,HARROW ,500 Pinner Road,HA5 5RW,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.53,2141,,513266,189284
+52,Hillingdon,FS41,HAYES,65 Shepiston Lane,UB3 1LL,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.32,1028,,508980,178442
+53,Hillingdon,FS42,HEATHROW,"Building 450, Heathrow Airport Northern Perimeter Road",TW6 2RR,,,Fire Station,Yes,Land & buildings ,Operational asset,LLH,0,736,,507150,176824
+54,Barnet,FS43,HENDON,"91 The Burroughs, Hendon",NW4 4BL,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.11,722,,522801,189270
+55,Hounslow,FS44,HESTON,"520 London Road Isleworth, Middlesex",TW7 4HR,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.16,1049,,515158,176432
+56,Hillingdon,FS45,HILLINGDON,Uxbridge Road,UB10 0PH,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.37,1139,,507447,182597
+57,Islington,FS46,HOLLOWAY,262-268 Hornsey Road,N7 7QT,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.16,819,,530695,186428
+58,Hackney,FS47,HOMERTON,97 Homerton High Street,E9 5DL,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.19,768,,535687,185105
+59,Havering,FS48,HORNCHURCH,42 North Street,RM11 1SH,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.21,612,,554022,187412
+60,Haringey,FS49,HORNSEY,108 Park Avenue South,N8 8LS,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.13,612,,529840,189177
+61,Redbridge,FS50,ILFORD,460 High Road,IG1 1UE,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.21,1211,,544973,186873
+62,Islington,FS51,ISLINGTON,278 Upper Street,N1 2TZ,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.12,1494,,531715,184100
+63,Kensington and Chelsea,FS52,KENSINGTON,"13 Old Court, Kensington High Street",W8 4PL,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.06,1108,,525707,179785
+64,Camden,FS53,KENTISH TOWN,"20 Highgate Road, London",NW5 1NS,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.22,614,,528938,185409
+65,Kingston Upon Thames,FS55,KINGSTON,390 Richmond Road,KT2 5PR,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.39,862,,517841,171411
+66,Lambeth,FS57,LAMBETH,8 Albert Embankment,SE1 7SD,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.39,15424,,530590,178749
+67,Lambeth,FS58,LAMBETH PONTOON,Opposite 8 Albert Embankment,SE1 7SD,,,Fire Station,Yes,Land & buildings ,Operational asset,LH,0,,,530590,178749
+68,Greenwich,FS59,LEE GREEN,9 Eltham Road,SE12 8ES,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.16,913,,539919,174994
+69,Lewisham,FS60,LEWISHAM,249/259 Lewisham High Street,SE13 6NH,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.22,2542,,538135,174991
+70,Waltham Forest,FS61,LEYTON,90B Church Road,E10 5HG,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.16,1187,,537563,186778
+71,Waltham Forest,FS62,LEYTONSTONE,466 High Road,E11 3HN,,,Fire Station,yes,Land & buildings ,Operational asset,FH,0.13,757,,539336,186549
+72,Barnet,FS63,MILL HILL,10 Hartley Avenue,NW7 2HX,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.11,499,,521731,192140
+73,Tower Hamlets,FS64,MILLWALL,43 West Ferry Rd,E14 8JH,,,Fire Station,Yes,Land & buildings ,Operational asset,LLH,0,2311,,537139,179840
+74,Merton,FS65,Former MITCHAM ,"30 Lower Green West, Mitcham",CR4 3AF,,,Fire Station,No,Land & buildings ,Subject to disposal process,FH,0.04,353,,527507,168583
+75,Lewisham,FS66,NEW CROSS,266 Queen's Road,SE14 5JN,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.18,1723,,535575,176755
+76,Merton,FS67,NEW MALDEN,180 Burlington Road,KT3 4RW,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.21,1010,,522160,168125
+77,Croydon,FS68,NORBURY,1321/1325A London Road,SW16 4AU,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.24,673,,530745,169200
+78,Kensington and Chelsea,FS69,NORTH KENSINGTON,242 Ladbroke Grove,W10 5LP,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.14,953,,524141,181842
+79,Ealing,FS70,NORTHOLT,74 Petts Hill,UB5 4JT,,,Fire Station,Yes,Land & buildings ,Operational asset,LH,0.2,712,,513826,185238
+80,Southwark,FS71,OLD KENT ROAD,405 Old Kent Road,SE1 5JH,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.24,708,,533856,178225
+81,Bromley,FS72,ORPINGTON,Avalon Road,BR6 9AX,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.17,512,,547014,165807
+82,Westminster,FS73,PADDINGTON,156 Harrow Road,W2 6NL,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.42,5459,,526138,181711
+83,Brent,FS74,PARK ROYAL,Waxlow Road,NW10 7NU,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.31,771,,520424,183305
+84,Southwark,FS75,PECKHAM,78-80 Peckham Road,SE5 8PR,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.16,1265,,533586,176741
+85,Newham,FS76,PLAISTOW,145 Prince Regent Lane,E13 8RY,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.46,1559,,541111,182192
+86,Greenwich,FS77,PLUMSTEAD,"1 Lakedale Road, Plumstead",SE18 1PP,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.06,731,,545321,178562
+87,Tower Hamlets,FS78,POPLAR,168 East India Dock Road,E14 0BP,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.2,1675,,537872,180958
+88,Croydon,FS79,PURLEY,128 Brighton Road,CR8 4DB,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.1,450,,530705,160863
+89,Richmond Upon Thames,FS80,RICHMOND,"323 Lower Richmond Road, Richmond, Surrey",TW9 4PN,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.24,887,,519223,175665
+90,Havering,FS81,ROMFORD,198 Pettits Lane North,RM1 4NU,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.34,786,,551192,190569
+91,Hillingdon,FS82,RUISLIP,Bury Street,HA4 7TW,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.28,761,,508387,188879
+92,Tower Hamlets,FS83,SHADWELL,290 Cable Street,E1 0BX,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.16,1305,,535009,180894
+93,Hackney,FS84,SHOREDITCH,235 Old Street,EC1V 9EY,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.29,2400,,532905,182595
+94,Bexley,FS85,SIDCUP,162 Main Road,DA14 6NZ,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.2,821,,545705,171849
+95,Westminster,FS87,SOHO,126 Shaftesbury Avenue,W1D 5ET,,,Fire Station,Yes,Land & buildings ,Operational asset,LLH,0.1,1565,,529861,180939
+96,Ealing,FS88,SOUTHALL,17-19 High Street,UB1 3HA,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.22,633,,512912,180409
+97,Enfield,FS89,SOUTHGATE,96 High Street,N14 6BN,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.16,753,,529711,194068
+98,Southwark,FS90,SOUTHWARK (including Southwark Training Centre),94 Southwark Bridge Road,SE1 0EG,,,Fire Station,Yes,Land & buildings ,Subject to disposal process,FH,0.88,7701,,532098,179880
+99,Harrow,FS91,STANMORE,650 Honeypot Lane,HA7 1JS,,,Fire Station,Yes,Land & buildings ,Operational asset,LLH,0.29,763,,518012,190803
+100,Hackney,FS92,STOKE NEWINGTON,64 Stoke Newington Church Street,N16 0AP,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.24,881,,533401,186603
+101,Newham,FS93,STRATFORD,117 Romford Road,E15 4LY,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.4,2465,,539555,184684
+102,Kingston Upon Thames,FS94,SURBITON,"31/33 Ewell Road, Surbiton",KT6 6AF,,,Fire Station,Yes,Land only,Operational asset,FH,0.14,529,,518517,167282
+103,Sutton,FS95,SUTTON,43 St Dunstans Hill,SM1 2JX,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.45,1055,,524634,164834
+104,Wandsworth,FS96,TOOTING,91 Trinity Road,SW17 7SQ,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.17,1181,,527772,172570
+105,Haringey,FS97,TOTTENHAM,49 St Loys Road ,N17 6UE,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.36,1500,,533661,189929
+106,Richmond Upon Thames,FS98,TWICKENHAM,30 South Road ,TW2 5NT,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.25,1289,,514945,171978
+107,Sutton,FS99,WALLINGTON,19 Belmont Road,SM6 8TE,,,Fire Station,Yes,Land & buildings ,Operational asset,FH,0.09,695,,529015,164222
+108,Southwark,HQ001,UNION STREET (HQ) ,"169 Union St, Southwark",SE1 0LL,,,Office,Yes,Land & buildings ,Operational asset,LH,1.1,,,532066,180012
+109,Lambeth,HQ014,OLD HQ (Main building and Rear Block),"8 Albert Embankment, Lambeth",SE1 7SP,,,Office,No,Land & buildings ,Subject to disposal process,FH,1.37,,,530523,178781
+110,Merton,HQ033,MERTON RCC,61 Morden Road,SW19 3XP,,,Office,Yes,Land & buildings ,Operational asset,LLH,,,,525871,169471
+111,Southwark,HQ04,GROTTO PLACE,"Sawyer Street, Southwark",SE1 0EG,,,Training Site,Yes,Land only,Operational asset,LLH,,,,532104,179851
+112,Hillingdon,HQ11,RUSLIP WORKSHOPS,800 Field End Road,HA4 0QH,,,Office,Yes,Land & buildings ,Operational asset,FH,0.56,,,512393,185471
+113,Kensington & Chelsea,HQ17,DISUSED TOILETS,206 Brompton Road,SW3 2BQ,,,Disused Toilets,No,Land only,Saleable asset,FH & LH,0.0001,,,527209,179185
+114,Haringey,HQ18,FORMER BOUNDS GREEN FIRE STATION,"69 Bounds Green Road, Haringey",N22 8DG,,,Office,Yes,Land & buildings ,Saleable asset,FH,0.0074,,,530231,190990
+115,Southwark,HQ23,GALLIARD CAR PARK (28 SPACES),"98-118 Southwark Bridge Road, Southwark",SE1 0BX,,,Car Park,Yes,Land only,Operational asset,LH,,,,532087,179774
+116,Croydon,HQ24,PURLEY WAY STORES,"Unit 3, 40-44 Purley Way, Purley",CR0 3JP,,,Warehouse,Yes,Land & buildings ,Operational asset,LH,0.13,,,530800,166723
+117,Croydon,,PEGASUS SITE,"Unit 1, Pegasus Road, Croydon",,,,Warehouse,No,Land & buildings ,Subject to disposal process,LH,0.49,2350,,,
